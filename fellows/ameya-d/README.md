@@ -8,12 +8,12 @@ Weekly video reports and STEM explainers. Built with the
 Kokoro **Onyx** (`am_onyx`), persona **"Liam, in for Ameya."** One voice, kept
 across the series. Channel: **@HumanitariansAI**.
 
-## Series
-- **RAG series** (STEM): plain-spoken episodes on how retrieval-augmented
-  generation actually works, grounded in a real project (`fin-disclosure-rag`) —
-  from first principles through evaluation, reranking, vector search, LLM
-  inference, quantization, and caching.
-- **Weekly work (Mycroft)**: what I built that week, measured end to end.
+## The RAG series
+A plain-spoken walk through how retrieval-augmented generation actually works,
+grounded end to end in one real project (`Ameya-Deshmukh26/fin-disclosure-rag`):
+First Principles → Answers That Matter (evaluation) → Reranking → Vector Search
+(HNSW/IVF) → LLM Inference → Quantization → Caching → Chunking → Tokenization →
+Embeddings & Batching. Plus finance/STEM and weekly Mycroft work videos.
 
 ## Episodes
 
@@ -30,6 +30,9 @@ across the series. Channel: **@HumanitariansAI**.
 | 2026-09-11 | `2026-09-11-llm-inference/` | STEM (RAG) | `LLMInference_AmeyaDeshmukh_2026-09-11.mp4` |
 | 2026-09-18 | `2026-09-18-rag-quantization/` | STEM (RAG) | `RAGQuantization_AmeyaDeshmukh_2026-09-18.mp4` |
 | 2026-09-25 | `2026-09-25-rag-caching/` | STEM (RAG) | `RAGCaching_AmeyaDeshmukh_2026-09-25.mp4` |
+| 2026-10-02 | `2026-10-02-rag-chunking/` | STEM (RAG) | `RAGChunking_AmeyaDeshmukh_2026-10-02.mp4` |
+| 2026-10-09 | `2026-10-09-rag-tokenization/` | STEM (RAG) | `RAGTokenization_AmeyaDeshmukh_2026-10-09.mp4` |
+| 2026-10-16 | `2026-10-16-rag-embeddings/` | STEM (RAG) | `RAGEmbeddings_AmeyaDeshmukh_2026-10-16.mp4` |
 
 Each folder holds the **beat sheet + source + a QC snapshot** (`qc-sheet.png`),
 and every reel also has a **9:16 Short** under `vertical/`. Audio/video files are
